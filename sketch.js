@@ -5,8 +5,8 @@ var database;
 function preload()
 {
 	//load images here
-  dog1 = loadImage("images/dog1.png")
- dog2 = loadImage("images/dogImg1.png")
+  dog1 = loadImage("dog1.png")
+ dog2 = loadImage("dogImg1.png")
 }
 
 function setup() {
